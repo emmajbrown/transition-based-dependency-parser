@@ -1,4 +1,4 @@
-# transition-based-dependency-parser
+# Transition-Based Dependency Parser
 
 Use the following:
 train.projective.short.conll: training dataset containing 9,568 tokens
